@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1490149632 source:c:\users\rafael\documents\tarea4_aa\binary_n.cpp
+	"binary_n.h"
+
+1490149632 c:\users\rafael\documents\tarea4_aa\binary_n.h
+	<iostream>
+
+1496336428 source:c:\users\rafael\documents\tarea4_aa\main.cpp
+	"Test.h"
+	<iostream>
+
+1495733192 c:\users\rafael\documents\tarea4_aa\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+
+1496335866 source:c:\users\rafael\documents\tarea4_aa\test.cpp
+	"Test.h"
+
+1495762498 source:c:\users\rafael\documents\tarea4_aa\binarynode.cpp
+	"BinaryNode.h"
+
+1495762571 c:\users\rafael\documents\tarea4_aa\binarynode.h
+	<iostream>
+
